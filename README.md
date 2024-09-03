@@ -1,5 +1,5 @@
-# H1 pygame
+# <h1>pygame<h1/>
 
-# H2 Introduction
+# <h2>Introduction<h2/>
 
-# H3 This is a game about
+# <h3>This is a game about<h3/>
