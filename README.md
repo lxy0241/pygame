@@ -1,6 +1,6 @@
 # Ping Pong Game
 
-# Group Name
+# <h2> Group Name<h2/>
 Mayo
 
 # Group Member
