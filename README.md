@@ -103,7 +103,7 @@ Mouse Click on the "Quit" button to exit or "Play Again" to restart after the ga
 
 # Photo
 
-![Paper-Rock-Scissors]https://github.com/lxy0241/pygame/blob/main/Screenshot/Screenshot%202024-09-04%20135511.png
+![Paper-Rock-Scissors](https://github.com/lxy0241/pygame/blob/main/Screenshot/Screenshot%202024-09-04%20135511.png)
 
-![Gameplay]https://github.com/lxy0241/pygame/blob/main/Screenshot/Screenshot%202024-09-04%20135533.png
+![Gameplay](https://github.com/lxy0241/pygame/blob/main/Screenshot/Screenshot%202024-09-04%20135533.png)
 
