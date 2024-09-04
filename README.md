@@ -4,34 +4,52 @@
 Mayo
 
 # Group Member
+
 Lim Xing Ying
+
 Goh Ee Theng
+
 Hoh Zhi Qi
 
 # Overview
 This is a Python Ping Pong Game. The game combines the classic elements of Ping Pong with a twist: before the game begins, players need to complete a Rock-Paper-Scissors(RPS) match to determine who serves first. The ball always starts from the winner's side, and the game's difficulty increases as the speed progressively ramps up, providing a fun and challenging experience.
 
 # Features
+
 **1. Rock-Paper-Scissors**
-Rock-Paper-Scissors is a Pre-Game. Players determine who serves first by playing a quick RPS match. </h4>
+
+Rock-Paper-Scissors is a Pre-Game. Players determine who serves first by playing a quick RPS match. 
+
 **2. Simple Control**
+
 The paddle is easy for the player to control.
+
 **3. Visual Effects**
+
 A gradient background for a visually appealing gaming experience
+
 **4. Background Music**
+
 Enhances the atmosphere with adjustable volume. 
 
 # Installation
+
 **1. Clone the Repository**
+
 git clone https://github.com/yourusername/ping-pong-rps-game.git
 cd ping-pong-rps-game
+
 **2. Install Pygame**
+
 Ensure you have Pygame installed. If not, you can install it using pip.
 pip install pygame
+
 **3. Add Background Music**
+
 Place your background music file in  Music directory at the root of the project. The music file should be named Background.mp3
 
 # Controls
+
 **Paper-Rock-Scissors Match**
 Player 1
 1 for Paper
