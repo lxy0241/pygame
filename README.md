@@ -121,7 +121,7 @@ rock_paper_scissors(): Handles the Rock-Paper-Scissors game.
 
 game_over_screen(): Displays the game over screen.
 
-**Game Action**
+# Game Action
 
 Esc to quit the game
 
