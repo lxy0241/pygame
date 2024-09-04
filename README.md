@@ -1,9 +1,9 @@
 # Ping Pong Game
 
-# Group Name
+## Group Name
 Mayo
 
-# Group Member
+## Group Member
 
 Lim Xing Ying
 
@@ -11,11 +11,11 @@ Goh Ee Theng
 
 Hoh Zhi Qi
 
-# Overview
+## Overview
 This is a Python Ping Pong Game. The game combines the classic elements of Ping Pong with a twist: before the game begins, players need to complete a Rock-Paper-Scissors(RPS) match to determine who serves first. The ball always starts from the winner's side, and the game's difficulty increases as the speed progressively ramps up, providing a fun and challenging experience.
  
 
-# Installation
+## Installation
 
 **1. Clone the Repository**
 
@@ -33,7 +33,7 @@ pip install pygame
 
 Place your background music file in  Music directory at the root of the project. The music file should be named Background.mp3
 
-# Controls
+## Controls
 
 **Paper-Rock-Scissors Match**
 
@@ -67,7 +67,7 @@ Up Arrow to move the paddle up
 
 Down Arrow to move the paddle down
 
-# Game Mechanics
+## Game Mechanics
 
 **1)Rock-Paper-Scissors:**
 
@@ -97,7 +97,7 @@ Down Arrow to move the paddle down
 
 -Options to quit the game or play again are provided.
 
-# Code Structure:
+## Code Structure:
 
 **1)Initialization:**
 
@@ -121,13 +121,13 @@ rock_paper_scissors(): Handles the Rock-Paper-Scissors game.
 
 game_over_screen(): Displays the game over screen.
 
-# Game Action
+## Game Action
 
 Esc to quit the game
 
 Mouse Click on the "Quit" button to exit or "Play Again" to restart after the game ends
 
-# How to Play
+## How to Play
 1. The game begins with a Rock-Paper-Scissors match between the two players.
    
 2.  The winner of the PRS match serves the ball from their side.
@@ -138,7 +138,7 @@ Mouse Click on the "Quit" button to exit or "Play Again" to restart after the ga
 
 5. After the game, players can choose to play again or quit.
 
-# Photo
+## Photo
 
 ![Paper-Rock-Scissors](https://github.com/lxy0241/pygame/blob/main/Screenshot/Screenshot%202024-09-04%20135511.png)
 
