@@ -37,11 +37,13 @@ Enhances the atmosphere with adjustable volume.
 **1. Clone the Repository**
 
 git clone https://github.com/yourusername/ping-pong-rps-game.git
+
 cd ping-pong-rps-game
 
 **2. Install Pygame**
 
 Ensure you have Pygame installed. If not, you can install it using pip.
+
 pip install pygame
 
 **3. Add Background Music**
@@ -51,6 +53,7 @@ Place your background music file in  Music directory at the root of the project.
 # Controls
 
 **Paper-Rock-Scissors Match**
+
 Player 1
 1 for Paper
 2 for Rock
@@ -62,6 +65,7 @@ K for Rock
 L for scissors
 
 **Ping Pong Gameplay**
+
 Player 1
 W to move the paddle up
 S to move the paddle down
@@ -71,6 +75,7 @@ Up Arrow to move the paddle up
 Down Arrow to move the paddle down
 
 **Game Action**
+
 Esc to quit the game
 Mouse Click on the "Quit" button to exit or "Play Again" to restart after the game ends
 
