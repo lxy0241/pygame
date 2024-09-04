@@ -54,36 +54,51 @@ Place your background music file in  Music directory at the root of the project.
 
 **Paper-Rock-Scissors Match**
 
-Player 1
+Player 1:
+
 1 for Paper
+
 2 for Rock
+
 3 for Scissors
 
 Player 2: 
+
 J for paper
+
 K for Rock
+
 L for scissors
 
 **Ping Pong Gameplay**
 
-Player 1
+Player 1:
+
 W to move the paddle up
+
 S to move the paddle down
 
-Player 2
+Player 2:
+
 Up Arrow to move the paddle up
+
 Down Arrow to move the paddle down
 
 **Game Action**
 
 Esc to quit the game
+
 Mouse Click on the "Quit" button to exit or "Play Again" to restart after the game ends
 
 # How to Play
 1. The game begins with a Rock-Paper-Scissors match between the two players.
-2. The winner of the PRS match serves the ball from their side.
+   
+2.  The winner of the PRS match serves the ball from their side.
+   
 3. Players control their paddles to hit the ball back and forth.
+
 4. The game ends when one player reaches 11 points and the winner is declared
+
 5. After the game, players can choose to play again or quit.
 
 # Screenshot
